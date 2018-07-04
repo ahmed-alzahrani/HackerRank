@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-// for N lines we have top answer Q queries
+// for N lines we have to answer Q queries
 
 
 int main() {
