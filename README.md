@@ -12,5 +12,5 @@ If you have any questions about any of the solutions that are in this repository
 
 | Badge                        | Points Needed / Score | Global Rank |
 | -----------------------------|:---------------------:|:------------|
-| C++ Silver Badge (4 star)    | 150 / 190             | 29290       |
+| C++ Silver Badge (4 star)    | 150 / 200             | 27572       |
 | Problem Solving Bronze Badge | 100 / 176             | 263814      |
