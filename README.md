@@ -10,7 +10,7 @@ If you have any questions about any of the solutions that are in this repository
 
 ## Badges / Global Rankings
 
-| Badge                        | Points Needed / Score | Global Rank |
-| -----------------------------|:---------------------:|:------------|
-| C++ Silver Badge (4 star)    | 150 / 240             | 22501       |
-| Problem Solving Bronze Badge | 100 / 176             | 263814      |
+| Badge                        | Score | Global Rank |
+| -----------------------------|:-----:|:------------|
+| C++ Silver Badge (4 star)    | 275   | 18583       |
+| Problem Solving Bronze Badge | 176   | 263814      |
