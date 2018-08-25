@@ -14,4 +14,4 @@ If you have any questions about any of the solutions that are in this repository
 | -----------------------------|:-----:|:------------|
 | C++ Silver Badge (4 star)    | 375   | 12090       |
 | Problem Solving Bronze Badge | 176   | 263814      |
-| Python Bronze Badge          | 75    | 132498      |
+| Python Bronze Badge          | 95    | 106845      |
