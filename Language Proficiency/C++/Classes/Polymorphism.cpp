@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <map>
@@ -7,6 +6,7 @@
 #include <set>
 #include <cassert>
 using namespace std;
+
 
 struct Node{
    Node* next;
@@ -29,6 +29,7 @@ class Cache{
 
 };
 
+
 int main() {
    int n, capacity,i;
    cin >> n >> capacity;
@@ -49,4 +50,3 @@ int main() {
    }
    return 0;
 }
-*/

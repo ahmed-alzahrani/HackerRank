@@ -12,6 +12,6 @@ If you have any questions about any of the solutions that are in this repository
 
 | Badge                        | Score | Global Rank |
 | -----------------------------|:-----:|:------------|
-| C++ Silver Badge (4 star)    | 375   | 12090       |
+| C++ Silver Badge (4 star)    | 425   | 9691        |
 | Problem Solving Bronze Badge | 176   | 263814      |
 | Python Bronze Badge          | 95    | 106845      |
